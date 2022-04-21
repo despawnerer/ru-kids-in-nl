@@ -1,0 +1,85 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 0;
+    margin: 30px;
+    font-size: 16px;
+    line-height: 1.5;
+    background: white;
+    color: #222;
+}
+
+article, section {
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    margin: 30px 0 0 0;
+    font-size: 13px;
+    color: gray;
+}
+
+a {
+    color: blue;
+    text-decoration: underline;
+}
+
+main {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 30px 0 20px;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 30px 0 20px;
+}
+
+h3 {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0;
+}
+
+p {
+    margin: 20px 0;
+}
+
+.options li {
+    margin:  10px 0 0 0;
+}
+
+.chooser {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.chooser li {
+    padding: 0;
+    margin: 10px 0 0 0;
+}
+
+.chooser .pill-link {
+    display: block;
+}
+
+.pill-link {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 15px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    color: black;
+}
+
+.pill-link:hover {
+    border-color: black;
+    background: #eee;
+}
