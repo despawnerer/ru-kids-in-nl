@@ -1,5 +1,3 @@
-# ru-kids-in-nl.plansfortheday.org
+# Help! I'm moving to Netherlands and I have no idea what to do about my kids
 
-## The site
-
-http://ru-kids-in-nl.plansfortheday.org/
+This website: http://ru-kids-in-nl.plansfortheday.org/

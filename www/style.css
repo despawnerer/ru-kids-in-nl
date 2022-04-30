@@ -19,6 +19,10 @@ footer {
     color: gray;
 }
 
+footer a {
+    color: #444;
+}
+
 a {
     color: blue;
     text-decoration: underline;
